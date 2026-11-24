@@ -1,0 +1,10 @@
+[project]
+name = "geofence_logger"
+version = "1.0.0"
+description = "Secure GeoPulse device enrollment and geofence event ingestion"
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["flit_core>=3.4,<4"]
+build-backend = "flit_core.buildapi"
